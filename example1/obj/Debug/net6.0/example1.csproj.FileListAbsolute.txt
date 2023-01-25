@@ -1,0 +1,15 @@
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/example1/bin/Debug/net6.0/example1
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/example1/bin/Debug/net6.0/example1.deps.json
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/example1/bin/Debug/net6.0/example1.runtimeconfig.json
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/example1/bin/Debug/net6.0/example1.dll
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/example1/bin/Debug/net6.0/example1.pdb
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/example1/obj/Debug/net6.0/example1.csproj.AssemblyReference.cache
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/example1/obj/Debug/net6.0/example1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/example1/obj/Debug/net6.0/example1.AssemblyInfoInputs.cache
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/example1/obj/Debug/net6.0/example1.AssemblyInfo.cs
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/example1/obj/Debug/net6.0/example1.csproj.CoreCompileInputs.cache
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/example1/obj/Debug/net6.0/example1.dll
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/example1/obj/Debug/net6.0/refint/example1.dll
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/example1/obj/Debug/net6.0/example1.pdb
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/example1/obj/Debug/net6.0/example1.genruntimeconfig.cache
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/example1/obj/Debug/net6.0/ref/example1.dll
