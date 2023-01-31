@@ -1,0 +1,15 @@
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example005_ifElse/obj/Debug/net6.0/Example005_ifElse.csproj.AssemblyReference.cache
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example005_ifElse/obj/Debug/net6.0/Example005_ifElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example005_ifElse/obj/Debug/net6.0/Example005_ifElse.AssemblyInfoInputs.cache
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example005_ifElse/obj/Debug/net6.0/Example005_ifElse.AssemblyInfo.cs
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example005_ifElse/obj/Debug/net6.0/Example005_ifElse.csproj.CoreCompileInputs.cache
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example005_ifElse/bin/Debug/net6.0/Example005_ifElse
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example005_ifElse/bin/Debug/net6.0/Example005_ifElse.deps.json
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example005_ifElse/bin/Debug/net6.0/Example005_ifElse.runtimeconfig.json
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example005_ifElse/bin/Debug/net6.0/Example005_ifElse.dll
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example005_ifElse/bin/Debug/net6.0/Example005_ifElse.pdb
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example005_ifElse/obj/Debug/net6.0/Example005_ifElse.dll
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example005_ifElse/obj/Debug/net6.0/refint/Example005_ifElse.dll
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example005_ifElse/obj/Debug/net6.0/Example005_ifElse.pdb
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example005_ifElse/obj/Debug/net6.0/Example005_ifElse.genruntimeconfig.cache
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example005_ifElse/obj/Debug/net6.0/ref/Example005_ifElse.dll
