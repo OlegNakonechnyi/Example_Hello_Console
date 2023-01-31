@@ -1,0 +1,15 @@
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.deps.json
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.runtimeconfig.json
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.dll
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.pdb
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.AssemblyReference.cache
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfoInputs.cache
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfo.cs
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.CoreCompileInputs.cache
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.dll
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example002_HelloUser/obj/Debug/net6.0/refint/Example002_HelloUser.dll
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.pdb
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.genruntimeconfig.cache
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example002_HelloUser/obj/Debug/net6.0/ref/Example002_HelloUser.dll
