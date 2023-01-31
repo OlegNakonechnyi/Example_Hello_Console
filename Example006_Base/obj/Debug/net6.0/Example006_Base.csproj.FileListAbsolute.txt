@@ -1,0 +1,15 @@
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example006_Base/obj/Debug/net6.0/Example006_Base.csproj.AssemblyReference.cache
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example006_Base/obj/Debug/net6.0/Example006_Base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example006_Base/obj/Debug/net6.0/Example006_Base.AssemblyInfoInputs.cache
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example006_Base/obj/Debug/net6.0/Example006_Base.AssemblyInfo.cs
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example006_Base/obj/Debug/net6.0/Example006_Base.csproj.CoreCompileInputs.cache
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example006_Base/bin/Debug/net6.0/Example006_Base
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example006_Base/bin/Debug/net6.0/Example006_Base.deps.json
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example006_Base/bin/Debug/net6.0/Example006_Base.runtimeconfig.json
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example006_Base/bin/Debug/net6.0/Example006_Base.dll
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example006_Base/bin/Debug/net6.0/Example006_Base.pdb
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example006_Base/obj/Debug/net6.0/Example006_Base.dll
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example006_Base/obj/Debug/net6.0/refint/Example006_Base.dll
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example006_Base/obj/Debug/net6.0/Example006_Base.pdb
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example006_Base/obj/Debug/net6.0/Example006_Base.genruntimeconfig.cache
+/Users/oleg/Desktop/GB/gitedu/ВведениеС#/Example006_Base/obj/Debug/net6.0/ref/Example006_Base.dll
